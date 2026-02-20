@@ -7,7 +7,12 @@ My name is Nicholas (Nick) Bonavita, I studied Biochemistry and Health Sciences 
 Everything I do on here is just for fun in my free time
 
 Checkout my workout/health plan:
+
 https://nickbonavita.github.io/workout-schedule/
 
+-------------------------------------------------------------------------------
+
+
 Checkout my brownian motion project and Vicsek model simulations:
+
 https://nickbonavita.github.io/SimulatingVicsekModel/
