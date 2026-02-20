@@ -5,6 +5,7 @@ My name is Nicholas (Nick) Bonavita, I studied Biochemistry and Health Sciences 
 ## I am interested in music🎸, travel✈️, cultures🗺️, science🧪🧬, and health🏃!
 
 Everything I do on here is just for fun in my free time
+-------------------------------------------------------------------------------
 
 Checkout my workout/health plan:
 
