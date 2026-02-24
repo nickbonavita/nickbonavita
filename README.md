@@ -8,13 +8,13 @@ Everything I do on here is just for fun in my free time
 
 -------------------------------------------------------------------------------
 
-Checkout my workout/health plan:
+Check out my workout/health plan:
 
 https://nickbonavita.github.io/workout-schedule/
 
 -------------------------------------------------------------------------------
 
 
-Checkout my brownian motion project and Vicsek model simulations:
+Check out my brownian motion project and Vicsek model simulations:
 
 https://nickbonavita.github.io/SimulatingVicsekModel/
