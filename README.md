@@ -7,7 +7,7 @@ My name is Nicholas (Nick) Bonavita, I studied Biochemistry and Health Sciences 
 Everything I do on here is just for fun in my free time
 
 -------------------------------------------------------------------------------
-
+Need some exercise or health advice?
 Check out my workout/health plan:
 
 https://nickbonavita.github.io/workout-schedule/
