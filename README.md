@@ -16,7 +16,7 @@ https://nickbonavita.github.io/SimulatingVicsekModel/
 
 -------------------------------------------------------------------------------
 
-Check out my little passion project of comparing genes between primates:
+Check out my passion project of comparing genes between primates:
 
 https://nickbonavita.github.io/primate_similarities/
 
