@@ -6,11 +6,6 @@ My name is Nicholas (Nick) Bonavita, I studied Biochemistry and Health Sciences 
 
 Everything I do on here is just for fun in my free time
 
--------------------------------------------------------------------------------
-Need some exercise or health advice?
-Check out my workout/health plan:
-
-https://nickbonavita.github.io/workout-schedule/
 
 -------------------------------------------------------------------------------
 
@@ -18,3 +13,16 @@ https://nickbonavita.github.io/workout-schedule/
 Check out my brownian motion project and Vicsek model simulations:
 
 https://nickbonavita.github.io/SimulatingVicsekModel/
+
+-------------------------------------------------------------------------------
+
+Check out my little passion project of comparing different genes between primates:
+
+https://nickbonavita.github.io/primate_similarities/
+
+-------------------------------------------------------------------------------
+
+Need some exercise or health advice?
+Check out my workout/health plan:
+
+https://nickbonavita.github.io/workout-schedule/
