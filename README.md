@@ -4,7 +4,7 @@ My name is Nicholas (Nick) Bonavita, I studied Biochemistry and Health Sciences 
 
 ## I am interested in music🎸, travel✈️, cultures🗺️, science🧪🧬, and health🏃!
 
-Everything I do on here is just for fun in my free time
+Everything I do on here is just for fun in my free time, I am extremely passionate about biology and animals. I love astronomy but Earth is the number one planet in my heart! 
 
 
 -------------------------------------------------------------------------------
